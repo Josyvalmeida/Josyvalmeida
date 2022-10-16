@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Josyvalmeida
+- 👀 I’m interested in Technology and music and sports
+- 🌱 I’m currently learning Python Language and Business Intelligence 
+- 💞️ I’m looking to collaborate on projects that I can learn from, as I'm a beginner.
+- 📫 How to reach me just email me: Josyvalmeida@outlook.com 
+
+<!---
+Josyvalmeida/Josyvalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
