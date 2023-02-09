@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josyvalmeida
-- 👀 I’m interested in Technology and music and sports
-- 🌱 I’m currently learning HTML, CSS and Javascript 
-- 💞️ I’m looking to collaborate on projects that I can learn from, as I'm a beginner.
+- 👀 I’m interested in Technology and music and sports.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking forward to collaborate on projects that I can learn from.
 - 📫 How to reach me just email me: Josyvalmeida@outlook.com 
 
 <!---
